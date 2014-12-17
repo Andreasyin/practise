@@ -1,6 +1,6 @@
 
 #-*- coding:utf-8 -*-
-#输入输出
+# 输入输出
 print "How old are you ?",
 age =  raw_input()
 print "How tall are you ?",
