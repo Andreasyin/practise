@@ -1,5 +1,5 @@
 
-#-*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 # ÊäÈëÊä³ö
 print "How old are you ?",
 age =  raw_input()
